@@ -10,5 +10,5 @@ return (new PhpCsFixer\Config)
     ])
     ->setFinder(
         (new PhpCsFixer\Finder)
-            ->in(['app', 'routes', 'config', 'tests'])
+            ->in(['app', 'routes', 'tests'])
     );
