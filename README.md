@@ -43,3 +43,9 @@ php artisan queue:work --sleep=2 --tries=3
 ```bash
 php artisan route:list
 ```
+
+### Сваггер документация:
+```bash
+your.domain.com/swagger/web (Апи документация)
+your.domain.com/swagger/admin (Админ апи документация)
+```
